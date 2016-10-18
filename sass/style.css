@@ -1,0 +1,2 @@
+body{background:#555}.container header{background:orange;height:100px;padding:20px}.container footer{background:orange;height:50px;padding:20px}.container main{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-content:stretch;align-items:stretch}.container main .sidebar1{width:15%;background:red}.container main .text{width:65%;background:#ff0}.container main .sidebar2{width:15%;background:red}
+/*# sourceMappingURL=style.css.map */
